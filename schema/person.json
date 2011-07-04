@@ -6,22 +6,27 @@
   "properties": {
     "first_name": {  
       "description": "first name of the person.",
+      "required": true,
       "type": "string"
     },
     "last_name": {
       "description": "last name of the person.",
+      "required": true,
       "type": "string"
     },
     "email": {
       "description": "email of the person.",
+      "required": true,
       "type": "string"
     },
     "image": {
       "description": "image url.",
+      "required": true,
       "type": "string"
     },
     "about": {
       "description": "about text for a person.",
+      "required": true,
       "type": "text"
     },
     "twitter": {
@@ -31,6 +36,6 @@
     "github": {
       "description": "github account for a person.",
       "type": "string"
-    },
+    }
   }
 }
