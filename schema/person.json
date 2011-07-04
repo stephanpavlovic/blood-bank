@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "title": "person",
+  "description": "A person",
+  "name": "person",
+  "properties": {
+    "first_name": {  
+      "description": "first name of the person.",
+      "type": "string"
+    },
+    "last_name": {
+      "description": "last name of the person.",
+      "type": "string"
+    },
+    "email": {
+      "description": "email of the person.",
+      "type": "string"
+    },
+    "image": {
+      "description": "image url.",
+      "type": "string"
+    },
+    "about": {
+      "description": "about text for a person.",
+      "type": "text"
+    },
+    "twitter": {
+      "description": "twitter account for a person.",
+      "type": "string"
+    },
+    "github": {
+      "description": "github account for a person.",
+      "type": "string"
+    },
+  }
+}

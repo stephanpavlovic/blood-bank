@@ -1,0 +1,10 @@
+{ "person": {
+    "first_name": "Michael",
+    "last_name": "Bumann",
+    "email": "bumi@railslove.com",
+    "image": "http://a0.twimg.com/profile_images/445763926/bumi.jpg",
+    "about": "Michael started web development in 1998. On a long journey from Perl to PHP, passing by Java, he finally found Ruby in early 2005. He's been in love with Ruby and Rails ever since, has built one of the first and biggest <a href=\"http://dawanda.com/\" title=\"DaWanda: Unikate, Geschenke, Designer, Taschen, Babysachen &amp; mehr\">German Ruby on Rails applications</a> and calls <a href=\"http://github.com/bumi\">github his second home</a>.",
+    "twitter": "bumi",
+    "github": "bumi"    
+  }
+}
