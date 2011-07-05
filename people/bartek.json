@@ -1,0 +1,14 @@
+{ 
+  "person": {
+    "first_name": "Bartek",
+    "last_name": "Widlak",
+    "email": "bartek@railslove.com",
+    "image": "http://a1.twimg.com/profile_images/1302406564/lupe.jpg",
+    "about": "\"Good decisions come from experience...\" that's what Bartek believes in. Since 2005, his major field is a User Experience. He always looks for improvements - to help World become a better place. In addition to UX he is a talented graphic designer with perfect HTML &amp; CSS skills, and a Rails-lover. Bartek's skills are appreciated by companies in Poland, England and Germany.",
+    "twitter": "bwidlak",
+    "twitter_url": "http://twitter.com/bwidlak",
+    "github": "vidlasty",
+    "github_url": "http://github.com/vidlasty",
+    "homepage": "http://bwidlak.com"
+  }
+}

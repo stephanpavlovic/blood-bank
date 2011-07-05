@@ -1,0 +1,13 @@
+{ 
+  "person": {
+    "first_name": "Dirk",
+    "last_name": "Jost",
+    "email": "dirk@railslove.com",
+    "image": "",
+    "about": "Dirk is Railslove's aspiring web developer in training. He's been coding HTML, CSS, and PHP at school since 2009 and is now learning Rails. Dirk's favourite part of development is seeing his projects come to life at their release.",
+    "twitter": "DerKojote90",
+    "twitter_url": "http://github.com/derkojote90",
+    "github": "DerKojote",
+    "github_url": "http://github.com/derkojote"
+  }
+}

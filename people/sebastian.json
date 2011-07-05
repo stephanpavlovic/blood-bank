@@ -1,0 +1,13 @@
+{ 
+  "person": {
+    "first_name": "Sebastian",
+    "last_name": "Kippe",
+    "email": "sebastian@railslove.com",
+    "image": "http://a2.twimg.com/profile_images/1087679676/avatar.png",
+    "about": "Sebastian has been using various languages and technologies in his over 10 years of doing professional web development, but some years ago he found indispensable companions in both Ruby and Rails. Having started out as a frontend developer he's also experimenting a lot with HTML5, new JS APIs, CSS3, webOS, and the likes. As a digital nomad Sebastian is constantly traveling around Europe and sometimes the rest of the world--meeting people, soaking up inspiration and trying to decipher the strange ways of humanity.",
+    "twitter": "skddc",
+    "twitter_url": "http://twitter.com/skddc",
+    "github": "skddc",
+    "github_url": "http://github.com/skddc"
+  }
+}
