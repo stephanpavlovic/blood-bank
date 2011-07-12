@@ -5,14 +5,10 @@
     "email": "ralph@railslove.com",
     "photo": "http://a0.twimg.com/profile_images/1220233727/gravatar.jpeg",
     "description": "Ralph has been a web developer since he hacked up a script to connect his Amiga computer to the internet with his parents' modem. Over the years, he has created websites and web applications in PHP, Java/J2EE and Ruby on Rails. He is an active contributor to the Hamburg Ruby scene and an organizer of the local Rails Usergroup. While he is not sitting in front of a computer, he enjoys playing with analog cameras or having a good coffee in a beautiful café.",
-    "twitter": "ralph",
-    "twitter_url": "http://twitter.com/ralph",
-    "github": "ralph",
-    "github_url": "http://github.com/ralph",
-    "flickr": "rvdh",
-    "flickr_url": "http://flickt.com/rvdh",
-    "facebook": "ralphvdh",
-    "facebook_url": "http://facebook.com/ralphvdh",
-    "homepage": "http://rvdh.de"
+    "twitter_name": "ralph",
+    "github_name": "ralph",
+    "flickr_name": "rvdh",
+    "facebook_name": "ralphvdh",
+    "url": "http://rvdh.de"
   }
 }

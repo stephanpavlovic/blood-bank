@@ -29,48 +29,28 @@
       "required": true,
       "type": "text"
     },
-    "twitter": {
+    "twitter_name": {
       "description": "twitter account for a person.",
       "type": "string"
     },
-    "github": {
+    "github_name": {
       "description": "github account for a person.",
       "type": "string"
     },
-    "xing": {
+    "xing_name": {
       "description": "xing account for a person",
       "type": "string"
     },
-    "facebook": {
+    "facebook_name": {
       "description": "facebook account for a person",
       "type": "string"
     },
-    "flickr": {
+    "flickr_name": {
       "description": "flickr account for a person",
       "type": "string"
     },
-    "homepage": {
+    "url": {
       "description": "homepage from a person",
-      "type": "string"
-    },
-    "twitter_url": {
-      "description": "the twitter url",
-      "type": "string"
-    },
-    "github_url": {
-      "description": "the github url",
-      "type": "string"
-    },
-    "xing_url": {
-      "description": "the xing url",
-      "type": "string"
-    },
-    "facebook_url": {
-      "description": "the facebook url",
-      "type": "string"
-    },
-    "flickr_url": {
-      "description": "the flickt url",
       "type": "string"
     }
   }
