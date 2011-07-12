@@ -19,12 +19,12 @@
       "required": true,
       "type": "string"
     },
-    "image": {
+    "photo": {
       "description": "image url.",
       "required": true,
       "type": "string"
     },
-    "about": {
+    "description": {
       "description": "about text for a person.",
       "required": true,
       "type": "text"
