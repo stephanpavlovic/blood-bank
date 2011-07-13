@@ -31,12 +31,10 @@
     },
     "twitter_name": {
       "description": "twitter account for a person.",
-      "required": true,
       "type": "string"
     },
     "github_name": {
       "description": "github account for a person.",
-      "required": true,
       "type": "string"
     },
     "xing_name": {
