@@ -33,6 +33,10 @@
       "description": "twitter account for a person.",
       "type": "string"
     },
+    "twitter_uid": {
+      "description": "twitter account ID for a person (see http://www.idfromuser.com)",
+      "type": "string"
+    },
     "github_name": {
       "description": "github account for a person.",
       "type": "string"
