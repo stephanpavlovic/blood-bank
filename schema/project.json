@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "title": "project",
+  "description": "A project",
+  "name": "project",
+  "properties": {
+    "project_name": {
+      "description": "the name of the project.",
+      "requierd": true,
+      "type": "string"
+    },
+    "screenshot": {
+      "description": "screenshot url.",
+      "requierd": true,
+      "type": "string"
+    },
+    "description": {
+      "description": "about text for a project.",
+      "requierd": true,
+      "type": "text"  
+    },
+    "logo": {
+      "description": "logo url.",
+      "requierd": true,
+      "type": "string"
+    },
+    "link": {
+      "description": "the link to a project.",
+      "requierd": true,
+      "type": "string"  
+    }
+  }
+}
