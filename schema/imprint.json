@@ -1,0 +1,59 @@
+{
+  "type": "object",
+  "title": "imprint",
+  "description": "The Imprint",
+  "name": "imprint",
+  "properties": {
+    "company_name": {
+      "description": "The name of the awson company",
+      "required" : true,
+      "type": "string"
+    },
+    "street": {
+      "description": "The street name.",
+      "required": true,
+      "type": "string"
+    },
+    "postcode": {
+      "description": "The postcode.",
+      "required": true,
+      "type": "string"
+    },
+    "city": {
+      "description": "The city name.",
+      "required": true,
+      "type": "string"
+    },
+    "country": {
+      "description": "The country.",
+      "required": true,
+      "type": "string"
+    },
+    "mobile": {
+      "description": "the mobile number.",
+      "required": true,
+      "type": "string"
+    },
+    "email": {
+      "description": "the email.",
+      "required": true,
+      "type": "string"
+    },
+    "registration court ": {
+      "description": "The registration court.",
+      "required": true,
+      "type": "string"
+    },
+    "leader": {
+      "description": "the leader.",
+      "required": true,
+      "type": "string"
+    },
+    "content": {
+      "description": "the content.",
+      "required": true,
+      "type": "text"  
+    }
+  }
+}
+
