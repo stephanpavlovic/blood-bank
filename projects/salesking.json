@@ -1,9 +1,11 @@
 {
   "project": {
     "project_name": "SalesKing",
-    "screenshot": "http://www.web2null.de/i4/salesking_full.jpg",
+    "images": "http://www.web2null.de/i4/salesking_full.jpg",
     "description": "SalesKing is an online invoicing service from Germany. Create estimates and invoices, send reminder or accept payments. Save time through flexible templates and automatic processes.",
     "logo": "http://railslove.com/images/portfolio/salesking/salesking.png",
-    "link": "http://salesking.eu/"
+    "link": "http://salesking.eu/",
+    "twitter_acc": "SalesKing",
+    "facebook_acc": "SalesKing.eu"
   }
 }

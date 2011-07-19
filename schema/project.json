@@ -9,8 +9,8 @@
       "requierd": true,
       "type": "string"
     },
-    "screenshot": {
-      "description": "screenshot url.",
+    "images": {
+      "description": "link to the images folder.",
       "requierd": true,
       "type": "string"
     },
@@ -28,6 +28,18 @@
       "description": "the link to a project.",
       "requierd": true,
       "type": "string"  
+    },
+    "repo url": {
+      "description": "linkt to the repository.",
+      "type": "string"
+    },
+    "twitter_acc": {
+      "description": "the twitter account to a project.",
+      "type": "string"
+    },
+    "facebook_acc": {
+      "description": "the facebook account to a project.",
+      "type": "string"
     }
   }
 }

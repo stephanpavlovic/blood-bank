@@ -1,10 +1,12 @@
 {
   "project": {
     "project_name": "Payango",
-    "screenshot": "http://railslove.com/images/payango_screen.png",
+    "images": "http://railslove.com/images/payango_screen.png",
     "description": "Create your own custom designed prepaid VISA card or choose from thousands of designs.",
     "logo": "http://img.skitch.com/20091030-jjbpayr4dffqirfikdw5q7upgi.png",
-    "link": "http://www.payango.com/"
+    "link": "http://www.payango.com/",
+    "twitter_acc": "payango",
+    "facebook_acc": "payangocard"
   }
 }
 

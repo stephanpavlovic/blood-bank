@@ -1,9 +1,11 @@
 {
   "project": {
     "project_name": "9flats",
-    "screenshot": "http://railslove.com/images/portfolio/9flats/9flats_screen.jpg",
+    "images": "http://railslove.com/images/portfolio/9flats/9flats_screen.jpg",
     "description": "9flats.com gives you the chance to visit unique and beautiful places all over the world. Meet awesome people and places. And if you want to rent out your flat – just do it. Doing that you earn money with something you already have.",
     "logo": "http://railslove.com/images/portfolio/9flats/9flats_logo.png",
-    "link": "http://www.9flats.com/de/"
+    "link": "http://www.9flats.com/de/",
+    "twitter_acc": "9flats",
+    "facebook_acc": "9flats"
   }
 }
