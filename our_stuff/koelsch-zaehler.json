@@ -3,6 +3,8 @@
     "name": "Kölsch-Zähler",
     "description": "Kölsch-Zähler is a mobile app to help you and your buddies keep track of how many beers you had during carnival in Köln (Cologne, Germany). Beer counts are shared among group members in real time and there's a global beer count indicating Köln's general carnival madness.",
     "image": "http://railslove.com/images/portfolio/koelschzaehler/koelsch-zaehler_logo.jpg",
-    "link": "http://koelsch-zaehler.de/"
+    "link": "http://koelsch-zaehler.de/",
+    "twitter_acc": "koelschzaehler",
+    "facebook_acc": "koelschzaehler"
   }
 }

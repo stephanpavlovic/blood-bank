@@ -23,6 +23,14 @@
       "description": "the link to a project.",
       "requierd": true,
       "type": "string"  
+    },
+    "twitter_acc": {
+      "description": "the twitter account to this stuff.",
+      "type": "string"
+    },
+    "facebook_acc": {
+      "description": "the facebook account to this stuff.",
+      "type": "string"
     }
   }
 }
