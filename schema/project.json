@@ -15,7 +15,7 @@
       "type": "string"
     },
     "description": {
-      "description": "about text for a project.",
+      "description": "description text for a project.",
       "requierd": true,
       "type": "text"  
     },
