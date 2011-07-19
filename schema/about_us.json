@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "title": "aboutus",
+  "description": "Our Stuff",
+  "name": "aboutus",
+  "properties": {
+    "head": {
+      "description": "the head of the about text.",
+      "required": true,
+      "type": "string"
+    },
+    "about_us": {
+      "description": "the about us text.",
+      "required": true,
+      "type": "text"
+    }
+  }
+}
