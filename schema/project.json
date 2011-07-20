@@ -24,7 +24,7 @@
       "requierd": true,
       "type": "string"
     },
-    "link": {
+    "url": {
       "description": "the link to a project.",
       "requierd": true,
       "type": "string"  
