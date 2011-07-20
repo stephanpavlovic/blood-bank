@@ -4,7 +4,7 @@
   "description": "A project",
   "name": "project",
   "properties": {
-    "project_name": {
+    "name": {
       "description": "the name of the project.",
       "requierd": true,
       "type": "string"
