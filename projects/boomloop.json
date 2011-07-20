@@ -1,11 +1,12 @@
 {
   "project": {
     "project_name": "Boomloop",
-    "images": "http://www.web2null.de/i3/boomloop_full.jpg",
+    "image_folder": "http://www.web2null.de/i3/boomloop_full.jpg",
     "description": "boomloop actually was \"a rather unique approach and a clever combination of tools around events\" created by the very talented guys from play/type. We supported their awesome work as co-developers; it was fun while it lasted!",
     "logo": "http://railslove.com/images/portfolio/boomloop/boomloop_logo.png",
     "link": "http://playtype.net/past/2009/4/13/so_long_and_thanks_for/",
-    "twitter_acc": "Boomloop",
-    "facebook_acc": "http://www.facebook.com/group.php?gid=6611376886"
+    "twitter_name": "Boomloop",
+    "facebook_name": "http://www.facebook.com/group.php?gid=6611376886",
+    "public": true
   }
 }

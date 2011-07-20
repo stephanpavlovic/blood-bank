@@ -1,11 +1,12 @@
 {
   "project": {
     "project_name": "DaWanda",
-    "images": "https://www.kaeuferportal.de/images/empfehlungen/dawanda_homepage_400x300px.gif",
+    "image_folder": "https://www.kaeuferportal.de/images/empfehlungen/dawanda_homepage_400x300px.gif",
     "description": "DaWanda is the place for unique and individual products and people. Buy handmade and hard to find goods, share your discoveries with your friends and create your own collections.",
     "logo": "http://railslove.com/images/portfolio/dawanda/dawanda.gif",
     "link": "http://www.dawanda.com/",
-    "twitter_acc": "dawanda_de",
-    "facebook_acc": "dawanda.de"
+    "twitter_name": "dawanda_de",
+    "facebook_name": "dawanda.de",
+    "public": true
   }
 }
