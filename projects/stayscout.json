@@ -6,6 +6,6 @@
     "logo": "http://img.skitch.com/20100614-p32hu9imbw5g678ydkb6hj5nf4.png",
     "url": "http://stayscout.de/",
     "twitter_name": "stayscout",
-    "undercover": true
+    "hidden": true
   }
 }

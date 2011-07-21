@@ -41,7 +41,7 @@
       "description": "the facebook account to a project.",
       "type": "string"
     },
-    "undercover": {
+    "hidden": {
       "description": "is this project public.",
       "required": true,
       "type": "boolean"  

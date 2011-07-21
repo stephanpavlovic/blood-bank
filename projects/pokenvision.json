@@ -6,6 +6,6 @@
     "logo": "http://img.skitch.com/20090506-89u4itpkuapsd2n7ia85819wmd.png",
     "url": "http://map.missionpoken.de/",
     "twitter_name": "Pokenvision",
-    "undercover": true
+    "hidden": true
   }
 }

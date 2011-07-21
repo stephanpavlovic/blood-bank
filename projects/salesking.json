@@ -7,6 +7,6 @@
     "url": "http://salesking.eu/",
     "twitter_name": "SalesKing",
     "facebook_name": "SalesKing.eu",
-    "undercover": true
+    "hidden": true
   }
 }

@@ -7,7 +7,7 @@
     "url": "http://www.payango.com/",
     "twitter_name": "payango",
     "facebook_name": "payangocard",
-    "undercover": true
+    "hidden": true
   }
 }
 
