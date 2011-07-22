@@ -41,11 +41,6 @@
       "description": "the facebook account to a project.",
       "type": "string"
     },
-    "hidden": {
-      "description": "is this project public.",
-      "required": true,
-      "type": "boolean"  
-    },
     "owner": {
       "description": "the owner.",
       "type": "string"
