@@ -6,27 +6,27 @@
   "properties": {
     "name": {
       "description": "the name of the project.",
-      "requierd": true,
+      "required": true,
       "type": "string"
     },
     "image_folder": {
       "description": "link to the images folder.",
-      "requierd": true,
+      "required": true,
       "type": "string"
     },
     "description": {
       "description": "description text for a project.",
-      "requierd": true,
+      "required": true,
       "type": "text"  
     },
     "logo": {
       "description": "logo url.",
-      "requierd": true,
+      "required": true,
       "type": "string"
     },
     "url": {
       "description": "the link to a project.",
-      "requierd": true,
+      "required": true,
       "type": "string"  
     },
     "repository url": {

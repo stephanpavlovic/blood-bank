@@ -21,7 +21,7 @@
     },
     "link": {
       "description": "the link to a project.",
-      "requierd": true,
+      "required": true,
       "type": "string"  
     },
     "twitter_name": {
