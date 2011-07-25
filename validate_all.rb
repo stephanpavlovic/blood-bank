@@ -1,5 +1,6 @@
 require './validate_person'
 require './validate_project'
-require './validate_ourstuff'
-require './validate_aboutus'
+require './validate_our_stuff'
+require './validate_about_us'
 require './validate_imprint'
+require './validate_twitter_keywords'
