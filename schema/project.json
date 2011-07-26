@@ -29,7 +29,7 @@
       "required": true,
       "type": "string"  
     },
-    "repository url": {
+    "repository_url": {
       "description": "linkt to the repository.",
       "type": "string"
     },
