@@ -41,6 +41,10 @@
       "description": "github account for a person.",
       "type": "string"
     },
+    "codebase_name": {
+      "description": "codebase account for a person.",
+      "type": "string"
+    },
     "xing_name": {
       "description": "xing account for a person",
       "type": "string"
