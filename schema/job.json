@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "title": "job",
+  "description": "A job offering",
+  "name": "job",
+  "properties": {
+    "title": {  
+      "description": "the job's title.",
+      "required": true,
+      "type": "string"
+    },
+    "description": {
+      "description": "description of the job.",
+      "required": true,
+      "type": "string"
+    }
+  }
+}

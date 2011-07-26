@@ -1,14 +1,14 @@
 {
-  "aboutus":{
+  "about_us":{
     "head": "we build web applications",
-    "about_us": "We are a small team of passionate hackers and thinkers creating juicy stuff for the web."
+    "text": "We are a small team of passionate hackers and thinkers creating juicy stuff for the web."
   },
-  "aboutus":{
+  "about_us":{
     "head": "we're kind of good at it",
-    "about_us": "With over 10 years experience in developing web applications, we have the knowledge to make your ideas fly."
+    "text": "With over 10 years experience in developing web applications, we have the knowledge to make your ideas fly."
   },
-  "aboutus": {
+  "about_us": {
     "head": "what can we do for you?",
-    "about_us": "get in touch with us.\nby land: team@railslove.com\nby sea: skype\nby air: +49 176 22 74 78 93"
+    "text": "get in touch with us.\nby land: team@railslove.com\nby sea: skype\nby air: +49 176 22 74 78 93"
   }
 }

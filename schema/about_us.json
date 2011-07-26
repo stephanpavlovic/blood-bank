@@ -9,7 +9,7 @@
       "required": true,
       "type": "string"
     },
-    "about_us": {
+    "text": {
       "description": "the about us text.",
       "required": true,
       "type": "text"
