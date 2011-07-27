@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "title": "texts",
+  "description": "The about_us and imprint texts",
+  "name": "texts",
+  "properties": {
+    "permalink": {
+      "description": "Link to the text",
+      "required": true,
+      "type": "string"
+    },
+    "text": {
+      "description": "about_us and imprint text",
+      "required": true,
+      "type": "text"
+    }
+  }
+}

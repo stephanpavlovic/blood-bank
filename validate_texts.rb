@@ -2,20 +2,19 @@ require 'minitest/autorun'
 require 'json-schema'
 require 'json'
 
-schema_file = File.join(File.dirname(File.expand_path(__FILE__)) , 'schema', 'imprint.json')
-imprint_path = File.join(File.dirname(File.expand_path(__FILE__)) , 'imprint')
+schema_file = File.join(File.dirname(File.expand_path(__FILE__)) , 'schema', 'texts.json')
+texts_path = File.join(File.dirname(File.expand_path(__FILE__)) , 'texts')
 schema = File.open(schema_file) { |f| JSON.parse(f.read) }
 
-describe 'imprint' do
-  Dir["#{imprint_path}/*\.*"].each do |file|
-    it "#{file.sub(/(\..*$)/,'').sub(/^#{imprint_path}/,'')} contains valid json" do
-      
+describe 'texts' do
+  Dir["#{texts_path}/*\.*"].each do |file|
+    it "#{file.sub(/(\..*$)/,'').sub(/^#{texts_path}/,'')} contains valid json" do
       
       begin
         json_str = File.open(file) { |f| f.read }
         # force_encoding only available in ruby 1.9.2
-        imprint = JSON.parse( json_str.respond_to?(:force_encoding ) ? json_str.force_encoding('UTF-8') : json_str)['imprint']
-        JSON::Validator.validate!(schema, imprint, :version=> :draft3 )
+        job = JSON.parse( json_str.respond_to?(:force_encoding ) ? json_str.force_encoding('UTF-8') : json_str)['texts']
+        JSON::Validator.validate!(schema, job, :version=> :draft3 )
       rescue JSON::Schema::ValidationError => schema_error
          assertion = false, schema_error.message + "\nIn: #{file}\nplease fix this!"
       rescue JSON::ParserError => parser_error
