@@ -1,8 +1,0 @@
-{
-  "type": "object",
-  "properties": {
-    "twitter_keyword": {
-      "type": "string"
-    }
-  }
-}
