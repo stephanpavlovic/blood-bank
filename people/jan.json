@@ -1,0 +1,16 @@
+{ 
+  "person": {
+    "first_name": "Jan",
+    "last_name": "Kus",
+    "email": "jan@railslove.com",
+    "photo": "http://a3.twimg.com/profile_images/1020258318/buddy.jpg",
+    "description": "Web developer and graduate student from Cologne, Germany. Computer freak since 1982, in love with web technologies since 2002. His studies in Media and Computer Science at Cologne University of Applied Sciences broadened his mind and set his view on managing projects and applying digital media in the real world. He's always on the road with his cell phone using it 24 hours a day. In private, he's an ambitious artist, winter sports fan, a happy Mac user and loves to enjoy sunshine at the river Rhine. Read more about Jan on his <a href=\"http://www.jankus.org/\" title=\"jankus.org\">private homepage</a>.",
+    "twitter_name": "koos",
+    "twitter_uid": "1321591",
+    "github_name": "koos",
+    "codebase_name": "koos",
+    "xing_name": "Jan_Kus",
+    "facebook_name": "jbvkoos",
+    "url": "http://jankus.org"
+  }
+}

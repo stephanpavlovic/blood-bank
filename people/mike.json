@@ -1,0 +1,16 @@
+{ 
+  "person": {
+    "first_name": "Mike",
+    "last_name": "Poltyn",
+    "email": "mike@railslove.com",
+    "photo": "http://a2.twimg.com/profile_images/824604882/avatar_small.png",
+    "description": "A young jQuery padawan and an old PHP master. Started out as a freelancer back in 2005, since then learned a great deal about PHP and was working on a couple of open-source projects, including MediaWiki (powering Wikipedia). Thus, he made his way to Railslove, where he became a Railslover himself. Privately, he is a Ubuntu user and addicted gamer, and he loves the vista of the Baltic Sea.",
+    "twitter_name": "holek_",
+    "twitter_uid": "75356636",
+    "github_name": "Holek",
+    "codebase_name": "holek",
+    "facebook_name": "mpoltyn",
+    "xing_name": "Mike_Poltyn",
+    "url": "http://mike.poltyn.com/"
+  }
+}

@@ -1,0 +1,14 @@
+{ 
+  "person": {
+    "first_name": "Manuel",
+    "last_name": "Korfmann",
+    "email": "manuel@railslove.com",
+    "photo": "http://a1.twimg.com/profile_images/1352919580/twitteravatar.jpg",
+    "description": "Manuel is a 16-year-old boy, who loves seeing and writing elegant, clean and DRY Ruby code. And since Rails is perfectly suited for doing this, Manuel loves Rails too. So it seems like his destiny is to work for Railslove. Manuel started programming Ruby about a year ago, though he had some experiences with C++ before but don't wants to be approached upon this subject.",
+    "twitter_name": "mkorfmann",
+    "twitter_uid": "32355368",
+    "github_name": "mkorfmann",
+    "codebase_name": "manuelkorfmann",
+    "url": "http://mkorfmann.github.com"
+  }
+}
