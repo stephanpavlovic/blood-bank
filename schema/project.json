@@ -1,0 +1,49 @@
+{
+  "type": "object",
+  "title": "project",
+  "description": "A project",
+  "name": "project",
+  "properties": {
+    "name": {
+      "description": "the name of the project.",
+      "required": true,
+      "type": "string"
+    },
+    "image_folder": {
+      "description": "link to the images folder.",
+      "required": true,
+      "type": "string"
+    },
+    "description": {
+      "description": "description text for a project.",
+      "required": true,
+      "type": "text"  
+    },
+    "logo": {
+      "description": "logo url.",
+      "required": true,
+      "type": "string"
+    },
+    "url": {
+      "description": "the link to a project.",
+      "required": true,
+      "type": "string"  
+    },
+    "repository_url": {
+      "description": "linkt to the repository.",
+      "type": "string"
+    },
+    "twitter_name": {
+      "description": "the twitter account to a project.",
+      "type": "string"
+    },
+    "facebook_name": {
+      "description": "the facebook account to a project.",
+      "type": "string"
+    },
+    "owner": {
+      "description": "the owner.",
+      "type": "string"
+    }
+  }
+}
