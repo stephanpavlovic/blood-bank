@@ -1,5 +1,0 @@
-require './validate_person'
-require './validate_project'
-require './validate_texts'
-require './validate_twitter_keyword'
-require './validate_job'
