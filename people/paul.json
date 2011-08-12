@@ -1,0 +1,13 @@
+{ 
+  "person": {
+    "first_name": "Paul",
+    "last_name": "Wittmann",
+    "email": "paul@railslove.com",
+    "photo": "https://secure.gravatar.com/avatar/6b36b56a1d1b15a6bab0f32c000102a0?s=140",
+    "description": "Although Paul fell in love with programming at an early age, he set out on the quest to untangle the ultimate code - NL (natural language) - in the forms of literature and philosophy. He's highly versed in deconstructing anything from Shakespeare to Heidegger. Nevertheless, Paul always maintained a strong interest in web technology and mathematics. We're excited he has now decided to make Rails his fulltime project and to head our Ruby poetry department.",
+    "github_name": "paulwittmann",
+    "codebase_name": "paulwittmann",
+    "twitter_name": "wakkahari",
+    "twitter_uid": "197727823"
+  }
+}

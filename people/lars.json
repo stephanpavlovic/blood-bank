@@ -1,0 +1,13 @@
+{ 
+  "person": {
+    "first_name": "Lars",
+    "last_name": "Brillert",
+    "email": "lars@railslove.com",
+    "photo": "https://secure.gravatar.com/avatar/0ef52460c969abd1f0a2a6efe212e247?s=140&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-140.png",
+    "description": "Lars fell in love with web development round about the year 2000. His journey took him from Perl over PHP to finally Ruby and Rails in 2005. He's famous for his addiction to payment gateways, database stuff and servers. In private Lars shares an extraordinary interest for climbing and cooking. Last but not least he also has an academic background as Master of Science with focus on Semantic Web Technologies.",
+    "github_name": "kangguru",
+    "codebase_name": "kangguru",
+    "twitter_name": "kangguru",
+    "twitter_uid": "26547041"
+  }
+}
