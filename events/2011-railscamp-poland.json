@@ -1,0 +1,9 @@
+{
+	"event": {
+		"dtstart": "2011-04-08T09:00:00Z",
+		"dtend": "2011-04-11T19:00:00Z",
+		"summary": "Railscamp Poland",
+		"location": "Wisła, Poland",
+		"description": "The very first Polish Railscamp organized by Railslove, Applicake, Salesking and Jarorcon"
+	}
+}

@@ -14,7 +14,7 @@
             "required":true
         },
         "location" : { 
-            "type" : "string" 
+            "type" : "string"
         },
         "url" : {
             "type" : "string", 

@@ -1,3 +1,4 @@
+require './validate_event'
 require './validate_person'
 require './validate_project'
 require './validate_texts'
