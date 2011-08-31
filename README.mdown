@@ -9,5 +9,3 @@ Check out [railslove.com](http://railslove.com) and [api.railslove.com](http://a
 see the juices flowing ^_^
 
 Kudos and a big thank you to [Travis CI](http://travis-ci.org) for their excellent haemodialytic services!
-
-
