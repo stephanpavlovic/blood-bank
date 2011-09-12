@@ -1,0 +1,13 @@
+{ 
+  "person": {
+    "first_name": "Lena",
+    "last_name": "Herrmann",
+    "email": "lena@railslove.com",
+    "photo": "http://de.gravatar.com/userimage/5990546/fbd0d61caba74eb347308a5fbb1d23a2.jpg?size=512",
+    "description": "TODO",
+    "twitter_name": "kilaulena",
+    "github_name": "lenalena",
+    "url": "http://www.lenaherrmann.net",
+    "xing_name": "Lena_Herrmann3"
+  }
+}
