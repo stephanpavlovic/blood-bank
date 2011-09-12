@@ -3,3 +3,6 @@ rvm:
  - 1.9.2
 
 script: 'bundle exec ruby validate_all.rb'
+notifications:
+  webhooks:
+    - "http://awesome-travis-bot.heroku.com/travis"
