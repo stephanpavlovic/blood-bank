@@ -17,17 +17,22 @@
     "description": {
       "description": "description text for a project.",
       "required": true,
-      "type": "text"  
+      "type": "text"
     },
     "logo": {
       "description": "logo url.",
       "required": true,
       "type": "string"
     },
+    "screenshot": {
+      "description": "screenshot url.",
+      "required": true,
+      "type": "string"
+    },
     "url": {
       "description": "the link to a project.",
       "required": true,
-      "type": "string"  
+      "type": "string"
     },
     "repository_url": {
       "description": "linkt to the repository.",
