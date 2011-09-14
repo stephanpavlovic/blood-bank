@@ -1,9 +1,9 @@
-{ 
+{
   "person": {
     "first_name": "Ralph",
     "last_name": "von der Heyden",
     "email": "ralph@railslove.com",
-    "photo": "http://www.gravatar.com/avatar/a7a7dddca32cd8b6e5af394c500934d5.png?s=512",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/ralph/portrait.jpg",
     "description": "Ralph has been a web developer since he hacked up a script to connect his Amiga computer to the internet with his parents' modem. Over the years, he has created websites and web applications in PHP, Java/J2EE and Ruby on Rails. He is an active contributor to the Hamburg Ruby scene and an organizer of the local Rails Usergroup. While he is not sitting in front of a computer, he enjoys playing with analog cameras or having a good coffee in a beautiful café.",
     "twitter_name": "ralph",
     "twitter_uid": "870271",
