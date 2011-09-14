@@ -1,9 +1,9 @@
-{ 
+{
   "person": {
     "first_name": "Tatjana",
     "last_name": "Lajendäcker",
     "email": "tatjana@railslove.com",
-    "photo": "https://www.xing.com/img/users/9/f/3/1e6fdb625.10107834,2.jpg",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/tatjana/portrait.jpg",
     "description": "Well, Tatjana knows nothing about developing or programming stuff and she doesn't even like computers. Even though she never fell in love with any programming language she thinks \"ruby-on-rails\" is a funny word. What she does like is Chinese (at least the food) which she studied in cologne and shanghai along with business administration.",
     "xing_name": "Tatjana_Lajendaecker",
     "github_name": "tatjanala"

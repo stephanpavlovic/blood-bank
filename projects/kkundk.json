@@ -3,7 +3,8 @@
     "name": "Kuhn, Kammann & Kuhn",
     "image_folder": "http://img.skitch.com/20100614-rbmgqmg5ssnkgx1mm4mn7353uk.png",
     "description": "This one is our first app that is publicly available, but you can't signup for it. And that's because it's \"just\" the agency website of Kuhn, Kammann & Kuhn. Built with Rails and love and some JavaScript haiku. ",
-    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/kkundk.png",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/kkundk/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/kkundk/screenshot.png",
     "url": "http://www.kkundk.de/",
     "twitter_name": "kkundk",
     "facebook_name": "kkundk"

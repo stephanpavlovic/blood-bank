@@ -1,9 +1,9 @@
-{ 
+{
   "person": {
     "first_name": "Sebastian",
     "last_name": "Kippe",
     "email": "sebastian@railslove.com",
-    "photo": "http://a2.twimg.com/profile_images/1087679676/avatar.png",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/sebastian/portrait.jpg",
     "description": "Sebastian has been using various languages and technologies in his over 10 years of doing professional web development, but some years ago he found indispensable companions in both Ruby and Rails. Having started out as a frontend developer he's also experimenting a lot with HTML5, new JS APIs, CSS3, webOS, and the likes. As a digital nomad Sebastian is constantly traveling around Europe and sometimes the rest of the world--meeting people, soaking up inspiration and trying to decipher the strange ways of humanity.",
     "twitter_name": "skddc",
     "twitter_uid": "12515352",

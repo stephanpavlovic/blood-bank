@@ -1,9 +1,9 @@
-{ 
+{
   "person": {
     "first_name": "Stephan",
     "last_name": "Pavlovic",
     "email": "stephan@railslove.com",
-    "photo": "http://www.gravatar.com/avatar/98cc71fb1d35a6b77c0e494290d1cb78.png",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/stephan/portrait.jpg",
     "description": "Stephan loves the web since 2000 when he takes is first sebs with Flash to create some interactivity. His study in in Media Informatics took him not only to a Master of Science but also to the lovely world of Ruby on Rails. He loves to challenge common interaction solution and optimising them if neccessary. Besides that he is into al kind of sports like soccer, tennis, climbing and running",
     "github_name": "stephanpavlovic",
     "codebase_name": "stephanpavlovic",
