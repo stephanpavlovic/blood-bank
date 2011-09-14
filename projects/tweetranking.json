@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "#tweetranking",
+    "image_folder": "http://www.zweipunktnull.org/blog/wp-content/uploads/2009/06/tweetranking.jpg",
+    "description": "With #tweetranking you can tag and recommend your favorite twitter users. Help building a directory of worth following people.",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/tweetranking/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/tweetranking/screenshot.png",
+    "url": "http://www.tweetranking.com/",
+    "twitter_name": "tweetranking",
+    "facebook_name": "http://www.facebook.com/pages/Tweetranking/125186610287"
+  }
+}
