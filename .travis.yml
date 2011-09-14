@@ -4,7 +4,4 @@ rvm:
 
 script: 'bundle exec ruby validate_all.rb'
 notifications:
-  recipients:
-    - bumi@railslove.com
-  webhooks:
-    - "http://awesome-travis-bot.heroku.com/travis"
+  webhooks: "http://awesome-travis-bot.heroku.com/travis"
