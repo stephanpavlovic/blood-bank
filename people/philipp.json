@@ -1,9 +1,9 @@
-{
+{ 
   "person": {
     "first_name": "Philipp",
     "last_name": "Brumm",
     "email": "philipp@railslove.com",
-    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/philipp/portrait.jpg",
+    "photo": "https://secure.gravatar.com/avatar/2b7a650b7f0a658b42c469996a3ae707?s=140&d=https://d3nwyuy0nl342s.cloudfront.net%2Fimages%2Fgravatars%2Fgravatar-140.png",
     "description": "Frontend Fiend and Javascript Jockey",
     "twitter_name": "funkensturm",
     "twitter_uid": "20724369",
