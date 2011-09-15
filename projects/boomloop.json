@@ -1,7 +1,6 @@
 {
   "project": {
     "name": "Boomloop",
-    "image_folder": "http://www.web2null.de/i3/boomloop_full.jpg",
     "description": "boomloop actually was \"a rather unique approach and a clever combination of tools around events\" created by the very talented guys from play/type. We supported their awesome work as co-developers; it was fun while it lasted!",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/boomloop/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/boomloop/screenshot.png",
