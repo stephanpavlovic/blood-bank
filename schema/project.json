@@ -29,6 +29,11 @@
       "required": true,
       "type": "string"
     },
+    "screenshot_small": {
+      "description": "small screenshot url.",
+      "required": true,
+      "type": "string"
+    },
     "url": {
       "description": "the link to a project.",
       "required": true,
