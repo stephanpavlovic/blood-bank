@@ -16,7 +16,7 @@
     },
     "logo": {
       "description": "logo url.",
-      "required": true,
+      "required": false,
       "type": "string"
     },
     "screenshot": {
