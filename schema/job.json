@@ -4,7 +4,7 @@
   "description": "A job offering",
   "name": "job",
   "properties": {
-    "name": {
+    "title": {  
       "description": "the job's title.",
       "required": true,
       "type": "string"
