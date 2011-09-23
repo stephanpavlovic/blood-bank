@@ -1,0 +1,12 @@
+{
+  "project": {
+    "name": "DailyDeal",
+    "description": "DailyDeal ist die wichtigste deutsche Plattform für lokale Gutscheine. DailyDeal.de bietet täglich wechselnde und außergewöhnlich günstige Deals und Angebote mit Rabatten von 50% bis 80% aus den Bereichen Gastronomie, Wellness, Beauty, Lifestyle, Freizeit, Event, Erlebnis und Sport in Form von Gutscheinen für die Städte Berlin, Hamburg, München, Köln, Frankfurt, Düsseldorf, Stuttgart, Nürnberg, Bremen, Hannover, Dresden, Leipzig, Kiel, Dortmund, Bochum und Essen. Nach dem Prinzip des Gruppenrabatt kommt jeder Deal auf DailyDeal nur zustande, wenn sich pro Deal eine bestimmte Anzahl von Käufern für den Gutschein findet.",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/screenshot_small.jpg",
+    "url": "http://www.dailydeal.de",
+    "twitter_name": "DailyDeal_GER",
+    "facebook_name": "DailyDeal.Deutschland"
+  }
+}
