@@ -1,0 +1,16 @@
+{
+  "person": {
+    "first_name": "Georg",
+    "last_name": "Leciejewski",
+    "email": "gl@salesking.eu",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/schorsch/portrait.jpg",
+    "description": "George knows us since our early days, when we shared our first office. After his carreer as a mechanic he started to enhance web-software enginges and made things like freakyphones.de . He then got feed up of running his businesses with crappy software and build SalesKing. George is one of our ruby teachers but can also be booked for mechanic & moped lessons.",
+    "twitter_name": "killerg",
+    "twitter_uid": "5375202",
+    "github_name": "schorsch",
+    "codebase_name": "schorsch",
+    "flickr_name": "",
+    "facebook_name": "george.leciejewski",
+    "url": "http://www.salesking.eu"
+  }
+}
