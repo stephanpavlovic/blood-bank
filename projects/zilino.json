@@ -1,12 +1,27 @@
 {
   "project": {
     "name": "Zilino",
+    "relevance": 3,
     "description": "Zilino is a web-based software application for group problem solving and decision making that helps people and organizations address challenging issues together. Among other things, Zilino provides tools and process support for online dialogue and deliberation.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/zilino/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/zilino/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/zilino/screenshot_small.jpg",
     "url": "http://www.zilino.com/",
     "twitter_name": "Zilino",
-    "facebook_name": "Zilino"
+    "facebook_name": "Zilino",
+    "people": [
+      {
+        "person": {
+          "slug": "paul_wittmann",
+          "contact_person": true
+        }
+      },
+      {
+        "person": {
+          "slug": "tim_schneider"
+        }
+      }
+    ],
+    "what_we_did": "We built Zilino from the ground up and have been maintaining and extending it since 2009."
   }
 }
