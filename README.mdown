@@ -14,3 +14,52 @@ For Authors
 -----------
 The easiest way to get your Twitter ID is to go here (thanks to Tim):
 http://twitter-id-from-username.heroku.com/YOUR_TWITTER_NAME
+
+Tips
+----
+
+Arrays in schemas:
+
+{
+  "type": "object",
+  "properties": {
+    "keywords": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}
+
+or:
+
+{
+  "type": "object",
+  "title": "project",
+  "description": "A project",
+  "name": "project",
+  "properties": {
+    "name": {
+      "description": "the name of the project.",
+      "required": true,
+      "type": "string"
+    },
+    //[...]
+    "people": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "person": {
+          "slug": {
+            "description": "a project member's slug (FIRSTNAME_LASTNAME)",
+            "type": "string",
+            "required": true
+          },
+          "contact_person": {
+            "description": "defines whether this person is one of the project's contact persons",
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

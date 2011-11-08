@@ -1,9 +1,9 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    json (1.5.3)
-    json-schema (0.9.8)
-    minitest (2.3.1)
+    json (1.6.1)
+    json-schema (0.9.11)
+    minitest (2.7.0)
 
 PLATFORMS
   ruby
