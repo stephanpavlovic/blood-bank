@@ -70,6 +70,10 @@
     "owner": {
       "description": "the owner.",
       "type": "string"
+    },
+    "what_we_did": {
+      "description": "a short text describing Railslove's part in this project.",
+      "type": "string"
     }
   }
 }
