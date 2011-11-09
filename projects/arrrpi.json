@@ -7,7 +7,8 @@
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/arrrpi/screenshot_small.jpg",
     "url": "http://arrrpi.posterous.com/",
     "twitter_name": "ARRRPI",
-    "owner" : "railslove"
+    "owner" : "railslove",
+    "type": "own"
   }
 }
 

@@ -8,6 +8,7 @@
     "url": "http://www.avocadostore.de/",
     "twitter_name": "avocadostore",
     "facebook_name": "avocadostore",
-    "owner" : "avocadostore"
+    "owner" : "avocadostore",
+    "type": "client"
   }
 }

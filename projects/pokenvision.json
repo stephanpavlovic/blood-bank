@@ -6,6 +6,7 @@
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/pokenvision/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/pokenvision/screenshot_small.jpg",
     "url": "http://map.missionpoken.de/",
-    "twitter_name": "Pokenvision"
+    "twitter_name": "Pokenvision",
+    "project_type": "client"
   }
 }

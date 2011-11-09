@@ -6,6 +6,7 @@
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/stayscout/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/stayscout/screenshot_small.jpg",
     "url": "http://stayscout.de/",
-    "twitter_name": "stayscout"
+    "twitter_name": "stayscout",
+    "project_type": "client"
   }
 }

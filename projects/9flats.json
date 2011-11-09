@@ -8,6 +8,7 @@
     "url": "http://www.9flats.com/",
     "twitter_name": "9flats",
     "facebook_name": "9flats",
-    "owner" : "9flats"
+    "owner" : "9flats",
+    "type": "client"
   }
 }

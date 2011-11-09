@@ -8,6 +8,7 @@
     "url": "http://www.adcloud.com/",
     "twitter_name": "adcloud",
     "facebook_name": "Adcloud",
-    "owner" : "Adcloud"
+    "owner" : "Adcloud",
+    "type": "client"
   }
 }

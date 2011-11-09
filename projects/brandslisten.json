@@ -7,6 +7,7 @@
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/brandslisten/screenshot_small.jpg",
     "url": "http://brandslisten.com/home",
     "twitter_name": "Brandslisten",
-    "facebook_name": "Brandslisten"
+    "facebook_name": "Brandslisten",
+    "type": "client"
   }
 }

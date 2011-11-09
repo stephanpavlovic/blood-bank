@@ -74,6 +74,10 @@
     "what_we_did": {
       "description": "a short text describing Railslove's part in this project.",
       "type": "string"
+    },
+    "type": {
+      "description": "is this a client project or one of our own?",
+      "type": "string"
     }
   }
 }
