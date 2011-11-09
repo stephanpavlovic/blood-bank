@@ -66,6 +66,10 @@
     "relevance": {
       "description": "a project's relevance, from 1 (less important) to 5 (very important).",
       "type": "integer"
+    },
+    "owner": {
+      "description": "the owner.",
+      "type": "string"
     }
   }
 }
