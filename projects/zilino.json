@@ -23,6 +23,6 @@
       }
     ],
     "what_we_did": "We built Zilino from the ground up and have been maintaining and extending it since 2009.",
-    "project_type": "client"
+    "type": "client"
   }
 }

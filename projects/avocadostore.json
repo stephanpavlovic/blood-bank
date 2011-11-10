@@ -9,6 +9,6 @@
     "twitter_name": "avocadostore",
     "facebook_name": "avocadostore",
     "owner" : "avocadostore",
-    "project_type": "client"
+    "type": "client"
   }
 }

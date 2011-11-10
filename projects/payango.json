@@ -8,6 +8,6 @@
     "url": "http://www.payango.com/",
     "twitter_name": "payango",
     "facebook_name": "payangocard",
-    "project_type": "client"
+    "type": "client"
   }
 }

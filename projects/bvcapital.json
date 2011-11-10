@@ -6,6 +6,6 @@
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/bvcapital/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/bvcapital/screenshot_small.png",
     "url": "http://www.bvcapital.com/",
-    "project_type": "client"
+    "type": "client"
   }
 }
