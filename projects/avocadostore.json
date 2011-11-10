@@ -11,7 +11,7 @@
     "owner" : "avocadostore",
     "project_type": "client",
     "what_we_did": "Railslove took over the development and maintenance of Avocado Store in May 2011",
-    "relevance": 23,
+    "relevance": 3,
     "people": [
       {
         "person": {
@@ -19,6 +19,6 @@
           "contact_person": true
         }
       }
-    ],
+    ]
   }
 }
