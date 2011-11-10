@@ -52,7 +52,7 @@
         "type": "object",
         "person": {
           "slug": {
-            "description": "a project member's slug (FIRSTNAME_LASTNAME)",
+            "description": "a project member's slug (firstname_lastname - all lower case)",
             "type": "string",
             "required": true
           },
