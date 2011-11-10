@@ -9,6 +9,24 @@
     "twitter_name": "CowoCo",
     "facebook_name": "cowoco",
     "owner": "railslove",
-    "project_type": "own"
+    "project_type": "own",
+    "relevance": 4,
+    "what_we_did": "We're building and maintaining this application, which has become the official directory of coworking spaces in germany",
+    "people": [{
+        "slug": "michael_bumann",
+        "contact_person": true
+      },
+      {
+        "slug": "tim_schneider",
+        "contact_person": false
+      },
+      {
+        "slug": "mike_poltyn",
+        "contact_person": true
+      }
+    ],
+    "person": {
+      "slug": "michael_bumann"
+    }
   }
 }
