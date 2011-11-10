@@ -8,6 +8,19 @@
     "url": "http://www.payango.com/",
     "twitter_name": "payango",
     "facebook_name": "payangocard",
-    "project_type": "client"
+    "project_type": "client",
+    "relevance": 4,
+    "people": [{
+        "slug": "michael_bumann",
+        "contact_person": true
+      },
+      {
+        "slug": "lars_brillert",
+        "contact_person": false
+      }
+    ],
+    "person": {
+      "slug": "michael_bumann"
+    }
   }
 }
