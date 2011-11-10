@@ -10,13 +10,13 @@
     "facebook_name": "dawanda.de",
     "project_type": "client",
     "relevance": 3,
-    "people": [{
-        "slug": "michael_bumann",
-        "contact_person": true
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact_person": true
+        }
       }
-    ],
-    "person": {
-      "slug": "michael_bumann"
-    }
+    ]
   }
 }

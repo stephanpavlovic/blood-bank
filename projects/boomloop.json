@@ -12,12 +12,11 @@
     "what_we_did": "",
     "people": [
       {
-        "slug": "michael_bumann",
-        "contact_person": true
+        "person": {
+          "slug": "michael_bumann",
+          "contact_person": true
+        }
       }
-    ],
-    "person": {
-      "slug": "michael_bumann"
-    }
+    ]
   }
 }

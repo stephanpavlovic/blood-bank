@@ -10,21 +10,25 @@
     "project_type": "client",
     "relevance": 3,
     "what_we_did": "We've helped getting the social network for scouts up and running. This is a non commercial project", 
-    "people": [{
-        "slug": "michael_bumann",
-        "contact_person": true
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact_person": true
+        }
       },
       {
-        "slug": "tim_schneider",
-        "contact_person": true
+        "person": {
+          "slug": "tim_schneider",
+          "contact_person": true
+        }
       },
       {
-        "slug": "jan_kus",
-        "contact_person": true
+        "person": {
+          "slug": "jan_kus",
+          "contact_person": true
+        }
       }
-    ],
-    "person": {
-      "slug": "michael_bumann"
-    }
+    ]
   }
 }

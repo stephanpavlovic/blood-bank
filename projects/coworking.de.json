@@ -12,21 +12,24 @@
     "project_type": "own",
     "relevance": 4,
     "what_we_did": "We're building and maintaining this application, which has become the official directory of coworking spaces in germany",
-    "people": [{
-        "slug": "michael_bumann",
-        "contact_person": true
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact_person": true
+        }
       },
       {
-        "slug": "tim_schneider",
-        "contact_person": false
+        "person": {
+          "slug": "tim_schneider"
+        }
       },
       {
-        "slug": "mike_poltyn",
-        "contact_person": true
+        "person": {
+          "slug": "mike_poltyn",
+          "contact_person": true
+        }
       }
-    ],
-    "person": {
-      "slug": "michael_bumann"
-    }
+    ]
   }
 }
