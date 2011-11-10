@@ -1,14 +1,28 @@
 {
   "project": {
     "name": "Adcloud GmbH",
-    "description": "Adcloud was founded in 2009 by the performance marketing pioneers Henning Lange and Oliver Thylmann. The head office is in Cologne, and another office is located in Madrid. Since April 2011, Adcloud has been a company of Deutsche Post DHL. Adcloud has 30 salaried employees and is internationally active – in addition to Germany, also in Austria, Switzerland and Spain. Adcloud currently delivers up to 5.000 advertising contacts per second for more than 3.500 advertising customers on over 500 international premium websites. Railslove supports Adcloud by coaching and the acquisition of knowledge of advanced design patterns creating web applications.",
+    "relevance": 5,
+    "description": "Adcloud was founded in 2009 by the performance marketing pioneers Henning Lange and Oliver Thylmann. The head office is in Cologne, and another office is located in Madrid. Since April 2011, Adcloud has been a company of Deutsche Post DHL. Adcloud has 30 salaried employees and is internationally active – in addition to Germany, also in Austria, Switzerland and Spain. Adcloud currently delivers up to 5.000 advertising contacts per second for more than 3.500 advertising customers on over 500 international premium websites.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/adcloud/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/adcloud/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/adcloud/screenshot_small.jpg",
     "url": "http://www.adcloud.com/",
     "twitter_name": "adcloud",
     "facebook_name": "Adcloud",
-    "owner" : "Adcloud",
+    "people": [
+      {
+        "person": {
+          "slug": "georg_leciejewski",
+          "contact_person": true
+        },
+        "person": {
+          "slug": "jan_kus"
+        }
+      }
+    ],
+    "what_we_did": " Railslove supports Adcloud by coaching and the acquisition of knowledge of advanced design patterns creating web applications.",
     "project_type": "client"
   }
 }
+
+
