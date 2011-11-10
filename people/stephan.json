@@ -1,0 +1,13 @@
+{
+  "person": {
+    "first_name": "Stephan",
+    "last_name": "Pavlovic",
+    "email": "stephan@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/stephan/portrait.jpg",
+    "description": "Stephan has been in love with the web since 2000, when he took his first steps with Flash to spice up websites with some serious interactivity. His study in media technology (<i>Medieninformatik</i>) did not only earn him a Master of Science, but also introduced him to the lovely world of <i>Ruby on Rails</i>. He loves to challenge common interaction solutions and to optimise them if need be. Besides that, he is into all kinds of sports like football, tennis, climbing and running.",
+    "github_name": "stephanpavlovic",
+    "codebase_name": "stephanpavlovic",
+    "twitter_name": "stephanpavlovic",
+    "twitter_uid": "43151858"
+  }
+}

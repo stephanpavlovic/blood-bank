@@ -1,0 +1,13 @@
+{
+  "project": {
+    "name": "Brandslisten",
+    "description": "Customer care is the future of marketing and brandslisten is your instant-on customer support on the web. Originally handcrafted by Railslove back in 2009 brandslisten now gets maintained by their own dev team.",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/brandslisten/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/brandslisten/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/brandslisten/screenshot_small.jpg",
+    "url": "http://brandslisten.com/home",
+    "twitter_name": "Brandslisten",
+    "facebook_name": "Brandslisten",
+    "project_type": "client"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "person": {
+    "first_name": "Philipp",
+    "last_name": "Brumm",
+    "email": "philipp@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/philipp/portrait.jpg",
+    "description": "Frontend Fiend and Javascript Jockey",
+    "twitter_name": "funkensturm",
+    "twitter_uid": "20724369",
+    "github_name": "brumm",
+    "codebase_name": "kukuku",
+    "facebook_name": "philipp_funkensturm",
+    "url": "http://philipp.funkensturm.de"
+  }
+}

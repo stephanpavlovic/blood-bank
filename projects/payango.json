@@ -1,0 +1,28 @@
+{
+  "project": {
+    "name": "Payango",
+    "description": "Create your own custom designed prepaid VISA card or choose from thousands of designs.",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/payango/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/payango/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/payango/screenshot_small.jpg",
+    "url": "http://www.payango.com/",
+    "twitter_name": "payango",
+    "facebook_name": "payangocard",
+    "project_type": "client",
+    "what_we_did": "We've helped Payango to bootstrap their application and we're their partern in all things tech",
+    "relevance": 4,
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact_person": true
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "person": {
+    "first_name": "Lena",
+    "last_name": "Herrmann",
+    "email": "lena@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/lena/portrait.jpg",
+    "description": "Having been a <a href=\"http://en.wikipedia.org/wiki/Media_activism\" title=\"Media Activism\">media activist</a> for many years, Lena is familiar with all kinds of web technologies, most notably Ruby. After an expedition to the world of JavaScript and CouchDB she is now back in Railsland, working on various projects for Railslove. Her main role here is to kick other developers hard when they don't write proper automated tests.",
+    "twitter_name": "kilaulena",
+    "twitter_uid": "16148847",
+    "github_name": "lenalena",
+    "url": "http://www.lenaherrmann.net",
+    "xing_name": "Lena_Herrmann3"
+  }
+}

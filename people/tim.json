@@ -1,0 +1,14 @@
+{
+  "person": {
+    "first_name": "Tim",
+    "last_name": "Schneider",
+    "email": "tim@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/tim/portrait.jpg",
+    "description": "With a reliable sense of &lt;style&gt; and an extensive practice of interaction design Tim gets in on most of our frontends. #haml lover, Sass addict, scribbling, whining, thinking, typing. Besides Michael and Jan, he's one of the founders of Railslove.",
+    "twitter_name": "tmschndr",
+    "twitter_uid": "934981",
+    "github_name": "tmschndr",
+    "codebase_name": "tmschndr",
+    "facebook_name": "tmschndr"
+  }
+}

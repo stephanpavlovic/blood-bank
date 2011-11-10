@@ -1,0 +1,43 @@
+{
+  "project": {
+    "name": "SalesKing",
+    "relevance": 3,
+    "description": "SalesKing is an online invoicing service from Germany. Create estimates and invoices, send reminder or accept payments. Save time through flexible templates and automatic processes.",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/screenshot_small.jpg",
+    "url": "http://salesking.eu/",
+    "twitter_name": "SalesKing",
+    "facebook_name": "SalesKing.eu",
+    "people": [
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact_person": true
+        }
+      },
+      {
+        "person": {
+          "slug": "mike_poltyn"
+        }
+      },
+      {
+        "person": {
+          "slug": "georg_leciejewski"
+        }
+      },
+      {
+        "person": {
+          "slug": "lars_brillert"
+        }
+      },
+      {
+        "person": {
+          "slug": "michael_bumann"
+        }
+      }
+    ],
+    "what_we_did": "We're the core developer team and shareholders of SalesKing",
+    "project_type": "own"
+  }
+}

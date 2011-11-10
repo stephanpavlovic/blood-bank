@@ -1,0 +1,13 @@
+{
+  "person": {
+    "first_name": "Bartek",
+    "last_name": "Widlak",
+    "email": "bartek@railslove.com",
+    "photo": "https://github.com/railslove/blood-bank/raw/master/images/people/bartek/portrait.jpg",
+    "description": "\"Good decisions come from experience...\" that's what Bartek believes in. Since 2005 his major field has been User Experience. He is always looking for improvements - to help making the world a better place. Besides being passionate about UX Bartek is a talented graphic designer with perfect HTML &amp; CSS skills, and a Rails lover. Bartek's skills are appreciated by companies in Poland, England and Germany.",
+    "twitter_name": "bwidlak",
+    "twitter_uid": "25270449",
+    "github_name": "vidlasty",
+    "codebase_name": "bartekwidlak"
+  }
+}
