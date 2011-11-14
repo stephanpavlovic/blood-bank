@@ -8,6 +8,32 @@
     "url": "http://railslove.com/",
     "twitter_name": "railslove",
     "owner": "railslove",
-    "project_type": "own"
+    "project_type": "own",
+    "people": [
+      {
+        "person": {
+          "slug": "paul_wittmann",
+          "contact_person": true
+        }
+      },
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact_person": true
+        }
+      },
+      {
+        "person": {
+          "slug": "philipp_brumm"
+        }
+      },
+      {
+        "person": {
+          "slug": "stephan_pavlovic"
+        }
+      }
+    ],
+    "what_we_did": "We designed and implemented the new Railslove.com. Its architecture consists of a Github repository for static content, an API, and a MongoDB-driven Rails 3.1 app.",
+    "relevance": 3
   }
 }
