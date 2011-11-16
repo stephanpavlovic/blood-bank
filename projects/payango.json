@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "Payango",
-    "description": "Create your own custom designed prepaid VISA card or choose from thousands of designs.",
+    "description": "Since 2009 Payango offers prepaid payment solutions from co-branded prepaid credit cards for consumers to online payout solutions for companies of all sizes.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/payango/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/payango/screenshot.png",
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/payango/screenshot_small.png",
@@ -26,3 +26,5 @@
     ]
   }
 }
+  
+      
