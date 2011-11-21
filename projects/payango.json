@@ -10,12 +10,12 @@
     "facebook_name": "payangocard",
     "project_type": "client",
     "what_we_did": "We've helped Payango to bootstrap their application and we're their partern in all things tech",
-    "relevance": 4,
+    "sort_order": 4,
     "people": [
       {
         "person": {
           "slug": "michael_bumann",
-          "contact_person": true
+          "contact": true
         }
       },
       {

@@ -7,12 +7,12 @@
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/bvcapital/screenshot_small.png",
     "url": "http://www.evcpartners.com/",
     "project_type": "client",
-    "relevance": 4,
+    "sort_order": 4,
     "what_we_did": "Since 2008 Railslove is building internal applications",
     "people": [{
       "person": {
         "slug": "michael_bumann",
-        "contact_person": true
+        "contact": true
       }
     }]
   }

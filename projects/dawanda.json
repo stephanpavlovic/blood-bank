@@ -9,12 +9,12 @@
     "twitter_name": "dawanda_de",
     "facebook_name": "dawanda.de",
     "project_type": "client",
-    "relevance": 3,
+    "sort_order": 3,
     "people": [
       {
         "person": {
           "slug": "michael_bumann",
-          "contact_person": true
+          "contact": true
         }
       }
     ]

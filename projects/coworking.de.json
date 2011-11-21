@@ -10,13 +10,13 @@
     "facebook_name": "cowoco",
     "owner": "railslove",
     "project_type": "own",
-    "relevance": 4,
+    "sort_order": 4,
     "what_we_did": "We're building and maintaining this application, which has become the official directory of coworking spaces in germany",
     "people": [
       {
         "person": {
           "slug": "michael_bumann",
-          "contact_person": true
+          "contact": true
         }
       },
       {
@@ -27,7 +27,7 @@
       {
         "person": {
           "slug": "mike_poltyn",
-          "contact_person": true
+          "contact": true
         }
       }
     ]

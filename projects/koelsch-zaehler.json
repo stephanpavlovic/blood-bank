@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "Kölsch Zähler",
-    "relevance": 5,
+    "sort_order": 5,
     "description": "Kölsch-Zähler is a mobile app to help you and your buddies keep track of how many beers you had during carnival in Köln (Cologne, Germany). Beer counts are shared among group members in real time and there's a global beer count indicating Köln's general carnival madness.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/koelsch-zaehler/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/koelsch-zaehler/screenshot.png",
@@ -13,7 +13,7 @@
       {
         "person": {
           "slug": "jan_kus",
-          "contact_person": true
+          "contact": true
         }
       },
       {

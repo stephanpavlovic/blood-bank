@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "Adcloud GmbH",
-    "relevance": 5,
+    "sort_order": 5,
     "description": "Adcloud was founded in 2009 by the performance marketing pioneers Henning Lange and Oliver Thylmann. The head office is in Cologne, and another office is located in Madrid. Since April 2011, Adcloud has been a company of Deutsche Post DHL. Adcloud has 30 salaried employees and is internationally active – in addition to Germany, also in Austria, Switzerland and Spain. Adcloud currently delivers up to 5.000 advertising contacts per second for more than 3.500 advertising customers on over 500 international premium websites.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/adcloud/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/adcloud/screenshot.png",
@@ -13,7 +13,7 @@
       {
         "person": {
           "slug": "georg_leciejewski",
-          "contact_person": true
+          "contact": true
         },
         "person": {
           "slug": "jan_kus"

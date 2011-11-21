@@ -1,7 +1,7 @@
 {
   "project": {
     "name": "Zilino",
-    "relevance": 3,
+    "sort_order": 3,
     "description": "Zilino is a web-based software application for group problem solving and decision making that helps people and organizations address challenging issues together. Among other things, Zilino provides tools and process support for online dialogue and deliberation.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/zilino/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/zilino/screenshot.png",
@@ -13,7 +13,7 @@
       {
         "person": {
           "slug": "paul_wittmann",
-          "contact_person": true
+          "contact": true
         }
       },
       {
