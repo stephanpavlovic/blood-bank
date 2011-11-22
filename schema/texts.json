@@ -9,9 +9,14 @@
       "required": true,
       "type": "string"
     },
-    "content": {
-      "description": "about_us and imprint text",
+    "headline": {
+      "description": "headline/teaser",
       "required": true,
+      "type": "text"
+    },
+    "content": {
+      "description": "detailed text body",
+      "required": false,
       "type": "text"
     }
   }

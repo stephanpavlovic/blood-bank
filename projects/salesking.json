@@ -1,11 +1,11 @@
 {
   "project": {
     "name": "SalesKing",
-    "relevance": 3,
+    "sort_order": 3,
     "description": "SalesKing is an online invoicing service from Germany. Create estimates and invoices, send reminder or accept payments. Save time through flexible templates and automatic processes.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/screenshot.png",
-    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/screenshot_small.jpg",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/salesking/screenshot_small.png",
     "url": "http://salesking.eu/",
     "twitter_name": "SalesKing",
     "facebook_name": "SalesKing.eu",
@@ -13,7 +13,7 @@
       {
         "person": {
           "slug": "jan_kus",
-          "contact_person": true
+          "contact": true
         }
       },
       {

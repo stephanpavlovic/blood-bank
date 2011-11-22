@@ -1,11 +1,11 @@
 {
   "project": {
     "name": "DailyDeal",
-    "relevance": 5,
+    "sort_order": 5,
     "description": "DailyDeal is probably the most important local deal company in Germany and has recently been acquired by Google. Railslove is coaching their development team with professional trainings about various Ruby and Rails topics.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/logo.png",
     "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/screenshot.png",
-    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/screenshot_small.jpg",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/dailydeal/screenshot_small.png",
     "url": "http://www.dailydeal.de",
     "twitter_name": "DailyDeal_GER",
     "facebook_name": "DailyDeal.Deutschland",
@@ -18,7 +18,7 @@
       {
         "person": {
           "slug": "georg_leciejewski",
-          "contact_person": true
+          "contact": true
         }
       }
     ],

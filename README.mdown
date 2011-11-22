@@ -54,7 +54,7 @@ or:
             "type": "string",
             "required": true
           },
-          "contact_person": {
+          "contact": {
             "description": "defines whether this person is one of the project's contact persons",
             "type": "boolean"
           }

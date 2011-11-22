@@ -52,19 +52,19 @@
         "type": "object",
         "person": {
           "slug": {
-            "description": "a project member's slug (FIRSTNAME_LASTNAME)",
+            "description": "a project member's slug (firstname_lastname - all lower case)",
             "type": "string",
             "required": true
           },
-          "contact_person": {
+          "contact": {
             "description": "defines whether this person is one of the project's contact persons",
             "type": "boolean"
           }
         }
       }
     },
-    "relevance": {
-      "description": "a project's relevance, from 1 (less important) to 5 (very important).",
+    "sort_order": {
+      "description": "sort order, from 1 (end) to 5 (beginning)",
       "type": "integer"
     },
     "owner": {

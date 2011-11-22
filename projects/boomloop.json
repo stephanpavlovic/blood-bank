@@ -8,16 +8,15 @@
     "twitter_name": "Boomloop",
     "facebook_name": "http://www.facebook.com/group.php?gid=6611376886",
     "project_type": "client",
-    "relevance": 2,
+    "sort_order": 2,
     "what_we_did": "",
     "people": [
       {
-        "slug": "michael_bumann",
-        "contact_person": true
+        "person": {
+          "slug": "michael_bumann",
+          "contact": true
+        }
       }
-    ],
-    "person": {
-      "slug": "michael_bumann"
-    }
+    ]
   }
 }
