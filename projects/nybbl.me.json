@@ -7,6 +7,26 @@
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl/screenshot_small.jpg",
     "url": "http://nybbl.me/",
     "owner": "railslove",
-    "project_type": "own"
+    "project_type": "own",
+    "what_we_did": "During Railsrumble 2009 we hacked on this one together with out friend Rany. Not only was it lots of fun, but we also got featured afterwards as one of ten <a href='http://news.ycombinator.com/item?id=782428'>RailsRumble Apps that Deserve to Be Startups</a> on Hacker News. Oh yeah!",
+    "sort_order": 2,
+    "people": [
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact": true
+        }
+      },
+      {
+          "person": {
+          "slug": "michael_bumann"
+        }
+      },
+      {
+          "person": {
+          "slug": "jan_kus"
+        }
+      }
+    ]
   }
 }

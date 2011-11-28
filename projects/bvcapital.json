@@ -8,12 +8,24 @@
     "url": "http://www.evcpartners.com/",
     "project_type": "client",
     "sort_order": 4,
-    "what_we_did": "Since 2008 Railslove is building internal applications",
-    "people": [{
-      "person": {
-        "slug": "michael_bumann",
-        "contact": true
+    "what_we_did": "Since 2008 Railslove is building internal applications.",
+    "people": [
+      {
+        "person": {
+          "slug": "michael_bumann",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "jan_kus"
+        }
+      },
+      {
+        "person": {
+          "slug": "tim_schneider"
+        }
       }
-    }]
+    ]
   }
 }

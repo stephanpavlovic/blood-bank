@@ -7,6 +7,7 @@
     "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/bots/screenshot_small.png",
     "url": "https://awesomebotfactory.com/",
     "owner": "railslove",
-    "project_type": "own"
+    "project_type": "own",
+    "sort_order": 3
   }
 }

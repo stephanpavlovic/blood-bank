@@ -11,20 +11,26 @@
     "facebook_name": "9flats",
     "owner" : "9flats",
     "project_type": "client",
-    "what_we_did": "Railslove kick-started this one back in 2010 and is part of the development team ever since. It's an awe-inspiring experience to work with such a vibrant start-up",
+    "what_we_did": "Railslove kick-started this one back in 2010 and is part of the development team ever since. It's an awe-inspiring experience to work with such a vibrant start-up.",
     "sort_order": 5,
     "people": [
       {
         "person": {
           "slug": "tim_schneider",
           "contact": true
-        },
+        }
+      },
+      {
         "person": {
           "slug": "stephan_pavlovic"
-        },
+        }
+      },
+      {
         "person": {
           "slug": "jakob_hilden"
-        },
+        }
+      },
+      {
         "person": {
           "slug": "lena_hermann"
         }

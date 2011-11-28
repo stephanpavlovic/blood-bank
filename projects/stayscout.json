@@ -9,7 +9,7 @@
     "twitter_name": "stayscout",
     "project_type": "client",
     "sort_order": 3,
-    "what_we_did": "We've helped getting the social network for scouts up and running. This is a non commercial project", 
+    "what_we_did": "We've helped getting the social network for scouts up and running. This is a non commercial project.",
     "people": [
       {
         "person": {
@@ -19,14 +19,12 @@
       },
       {
         "person": {
-          "slug": "tim_schneider",
-          "contact": true
+          "slug": "tim_schneider"
         }
       },
       {
         "person": {
-          "slug": "jan_kus",
-          "contact": true
+          "slug": "jan_kus"
         }
       }
     ]

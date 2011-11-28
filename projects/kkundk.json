@@ -8,6 +8,16 @@
     "url": "http://www.kkundk.de/",
     "twitter_name": "kkundk",
     "facebook_name": "kkundk",
-    "project_type": "client"
+    "project_type": "client",
+    "what_we_did": "Back in 2009 Railslove completed the first iteration of KKK's website within only 7 days. Afterwards we've started an agile maintenance process to shape and improve this little ruby together with Wendelin Auer from Kuhn, Kammann & Kuhn.",
+    "sort_order": 2,
+    "people": [
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact": true
+        }
+      }
+    ]
   }
 }
