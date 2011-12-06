@@ -2,9 +2,9 @@
   "project": {
     "name": "nybbl.me²",
     "description": "Fixing the education system one Nybbl at a time. Learning has never been so scrummy! Stay tuned!",
-    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl/logo.png",
-    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl/screenshot.png",
-    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl/screenshot_small.jpg",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl_me/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl_me/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/nybbl_me/screenshot_small.jpg",
     "url": "http://nybbl.me/",
     "owner": "railslove",
     "project_type": "own",
