@@ -2,16 +2,16 @@
   "project": {
     "name": "coworking.de",
     "description": "coworking.de is a catalogue of coworking spaces all over germany. Since we're part of Coworking Cologne it was a matter of course to support the german coworking community with an application like this. Credits to w11 for the stunning design and hallenprojekt.de for the data.",
-    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/coworking/logo.png",
-    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/coworking/screenshot.png",
-    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/coworking/screenshot_small.png",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/coworking_de/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/coworking_de/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/coworking_de/screenshot_small.png",
     "url": "http://coworking.de/",
     "twitter_name": "CowoCo",
     "facebook_name": "cowoco",
     "owner": "railslove",
     "project_type": "own",
     "sort_order": 4,
-    "what_we_did": "We're building and maintaining this application, which has become the official directory of coworking spaces in germany",
+    "what_we_did": "We're building and maintaining this application, which has become the official directory of coworking spaces in germany.",
     "people": [
       {
         "person": {

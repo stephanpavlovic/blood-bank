@@ -1,0 +1,40 @@
+{
+  "project": {
+    "name": "9flats.com",
+    "description": "9flats.com gives you the chance to visit unique and beautiful places all over the world and to rent out your own flat.",
+    "what_we_did": "Railslove kick-started this one back in 2010 and is part of the development team ever since. It's an awe-inspiring experience to work with such a vibrant start-up",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/9flats_com/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/9flats_com/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/9flats_com/screenshot_small.png",
+    "url": "http://www.9flats.com/",
+    "twitter_name": "9flats",
+    "facebook_name": "9flats",
+    "owner" : "9flats",
+    "project_type": "client",
+    "what_we_did": "Railslove kick-started this one back in 2010 and is part of the development team ever since. It's an awe-inspiring experience to work with such a vibrant start-up.",
+    "sort_order": 5,
+    "people": [
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "stephan_pavlovic"
+        }
+      },
+      {
+        "person": {
+          "slug": "jakob_hilden"
+        }
+      },
+      {
+        "person": {
+          "slug": "lena_hermann"
+        }
+      }
+    ]
+  }
+}

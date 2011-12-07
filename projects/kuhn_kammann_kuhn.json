@@ -1,0 +1,23 @@
+{
+  "project": {
+    "name": "Kuhn, Kammann & Kuhn",
+    "description": "This one is our first app that is publicly available, but you can't signup for it. And that's because it's \"just\" the agency website of Kuhn, Kammann & Kuhn. Built with Rails and love and some JavaScript haiku. ",
+    "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/kuhn_kammann_kuhn/logo.png",
+    "screenshot": "https://github.com/railslove/blood-bank/raw/master/images/projects/kuhn_kammann_kuhn/screenshot.png",
+    "screenshot_small": "https://github.com/railslove/blood-bank/raw/master/images/projects/kuhn_kammann_kuhn/screenshot_small.png",
+    "url": "http://www.kkundk.de/",
+    "twitter_name": "kkundk",
+    "facebook_name": "kkundk",
+    "project_type": "client",
+    "what_we_did": "Back in 2009 Railslove completed the first iteration of KKK's website within only 7 days. Afterwards we've started an agile maintenance process to shape and improve this little ruby together with Wendelin Auer from Kuhn, Kammann & Kuhn.",
+    "sort_order": 2,
+    "people": [
+      {
+        "person": {
+          "slug": "tim_schneider",
+          "contact": true
+        }
+      }
+    ]
+  }
+}

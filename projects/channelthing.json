@@ -8,6 +8,26 @@
     "url": "http://channelthing.com/",
     "twitter_name": "channelthing",
     "owner": "railslove",
-    "project_type": "own"
+    "project_type": "own",
+    "sort_order": 2,
+    "what_we_did": "",
+    "people": [
+      {
+        "person": {
+          "slug": "jan_kus",
+          "contact": true
+        }
+      },
+      {
+        "person": {
+          "slug": "michael_bumann"
+        }
+      },
+      {
+        "person": {
+          "slug": "tim_schneider"
+        }
+      }
+    ]
   }
 }
