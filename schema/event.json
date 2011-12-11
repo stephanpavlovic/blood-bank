@@ -3,15 +3,20 @@
     "description" : "A representation of an event",
     "type" : "object",
     "properties" : {
+        "slug": {
+          "type": "string",
+          "description": "Event's slug.",
+          "required": true
+        },
         "dtstart" : {
             "format" : "date-time",
             "type" : "string",
             "description" : "Event starting time",
-            "required":true
+            "required": true
         },
-        "summary" : {
+        "title" : {
             "type":"string",
-            "required":true
+            "required": true
         },
         "location" : { 
             "type" : "string"
