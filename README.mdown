@@ -15,6 +15,18 @@ For Authors
 The easiest way to get your Twitter ID is to go here (thanks to Tim):
 http://twitter-id-from-username.heroku.com/YOUR_TWITTER_NAME
 
+Slugs
+-----
+
+have to be exactly in this format (cf. Heart Chamber's /lib/string_helpers.rb, sluggify method):
+  YOURSTRING.underscore.parameterize(sep = '_')
+examples:
+  "Tatjana Lajendäcker".underscore.parameterize(sep = '_')
+  # -> "tajana_lajendacker"
+
+  "9flats.com" # -> "9flats_com"
+  "SalesKing GmbH"       # -> "sales_king_gmb_h"
+
 Tips
 ----
 
