@@ -1,5 +1,6 @@
 {
   "project": {
+    "slug": "zilino",
     "name": "Zilino",
     "sort_order": 3,
     "description": "Zilino is a web-based software application for group problem solving and decision making that helps people and organizations address challenging issues together. Among other things, Zilino provides tools and process support for online dialogue and deliberation.",

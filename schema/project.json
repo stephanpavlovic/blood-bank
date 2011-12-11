@@ -4,6 +4,11 @@
   "description": "A project",
   "name": "project",
   "properties": {
+    "slug": {
+      "description": "The project's slug.",
+      "type": "string",
+      "required": true
+    },
     "name": {
       "description": "the name of the project.",
       "required": true,
