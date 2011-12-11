@@ -4,6 +4,11 @@
   "description": "A person",
   "name": "person",
   "properties": {
+    "slug": {
+      "description": "slug of the person.",
+      "required": true,
+      "type": "string"
+    },
     "first_name": {  
       "description": "first name of the person.",
       "required": true,
