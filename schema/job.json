@@ -4,6 +4,11 @@
   "description": "A job offering",
   "name": "job",
   "properties": {
+    "slug": {
+      "description": "the job's slug.",
+      "required": true,
+      "type": "string"
+    },
     "title": {  
       "description": "the job's title.",
       "required": true,

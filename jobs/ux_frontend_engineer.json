@@ -1,5 +1,6 @@
 {
   "job": {
+    "slug": "ux_frontend_ninja",
     "title": "UX & Frontend Ninja",
     "description":
       "The Requirements: Ruby, Rails, #haml, SASS, JavaScript, jQuery, good understanding of user interaction, good design skills, knowledge of your graphic/illustration tools and the general awesomeness ;)."
