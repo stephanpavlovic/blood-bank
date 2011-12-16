@@ -1,5 +1,6 @@
 {
   "project": {
+    "slug": "sale_king",
     "name": "SalesKing",
     "sort_order": 3,
     "description": "SalesKing is an online invoicing service from Germany. Create estimates and invoices, send reminder or accept payments. Save time through flexible templates and automatic processes.",

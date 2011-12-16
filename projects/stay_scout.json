@@ -1,5 +1,6 @@
 {
   "project": {
+    "slug": "stay_scout",
     "name": "StayScout",
     "description": "StayScout is a social network and fund raising tool for scouts initiated by DPSG (German Scout Association Saint George), the largest of Germany's many Scouting organizations.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/stay_scout/logo.png",

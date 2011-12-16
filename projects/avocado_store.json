@@ -1,5 +1,6 @@
 {
   "project": {
+    "slug": "avocado_store",
     "name": "Avocado Store",
     "description": "Avocado Store is a growing marketplace for sustainable and organic products. The Hamburg-based team drives the company with authenticity and passion and has already won several awards, such as <a href='http://www.deutsche-startups.de/?p=35943'>Start-Up of the Year 2010</a>. Railslove took over the active development and maintenance of Avocado Store in May 2011.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/avocado_store/logo.png",
