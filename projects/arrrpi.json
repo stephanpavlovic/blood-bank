@@ -1,6 +1,5 @@
 {
   "project": {
-    "slug": "arrrpi",
     "name": "ARRRPI",
     "sort_order": 2,
     "description": "ARRRPI introduces standardised api descriptions, provides them fully machine-readable using microformats and shows some ways how to use semantic api annotations. Born as a university project from Jan and Tim it became one of Railslove's side-projects.",

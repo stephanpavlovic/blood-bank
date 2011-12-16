@@ -1,6 +1,5 @@
 {
   "project": {
-    "slug": "tweetranking",
     "name": "#tweetranking",
     "description": "With #tweetranking you can tag and recommend your favorite twitter users. Help building a directory of worth following people.",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/tweetranking/logo.png",

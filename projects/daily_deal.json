@@ -1,6 +1,5 @@
 {
   "project": {
-    "slug": "daily_deal",
     "name": "DailyDeal",
     "sort_order": 4,
     "description": "DailyDeal is probably the most important local deal company in Germany and has recently been acquired by Google. Railslove is coaching their development team with professional trainings about various Ruby and Rails topics.",

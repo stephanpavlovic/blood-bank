@@ -1,6 +1,5 @@
 {
   "project": {
-    "slug": "kuhn_kammann_kuhn",
     "name": "Kuhn, Kammann & Kuhn",
     "description": "This one is our first app that is publicly available, but you can't signup for it. And that's because it's \"just\" the agency website of Kuhn, Kammann & Kuhn. Built with Rails and love and some JavaScript haiku. ",
     "logo": "https://github.com/railslove/blood-bank/raw/master/images/projects/kuhn_kammann_kuhn/logo.png",
