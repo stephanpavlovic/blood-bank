@@ -19,59 +19,62 @@ Slugs
 -----
 
 have to be exactly in this format (cf. Heart Chamber's /lib/string_helpers.rb, sluggify method):
-  YOURSTRING.underscore.parameterize(sep = '_')
-examples:
-  "Tatjana Lajendäcker".underscore.parameterize(sep = '_')
-  # -> "tajana_lajendacker"
 
-  "9flats.com" # -> "9flats_com"
-  "SalesKing GmbH"       # -> "sales_king_gmb_h"
+    YOURSTRING.underscore.parameterize(sep = '_')
+
+examples:
+
+    "Tatjana Lajendäcker".underscore.parameterize(sep = '_')
+    # -> "tajana_lajendacker"
+
+    "9flats.com" # -> "9flats_com"
+    "SalesKing GmbH"       # -> "sales_king_gmb_h"
 
 Tips
 ----
 
 Arrays in schemas:
 
-{
-  "type": "object",
-  "properties": {
-    "keywords": {
-      "type": "array",
-      "items": { "type": "string" }
+    {
+      "type": "object",
+      "properties": {
+        "keywords": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
     }
-  }
-}
 
 or:
 
-{
-  "type": "object",
-  "title": "project",
-  "description": "A project",
-  "name": "project",
-  "properties": {
-    "name": {
-      "description": "the name of the project.",
-      "required": true,
-      "type": "string"
-    },
-    //[...]
-    "people": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "person": {
-          "slug": {
-            "description": "a project member's slug (FIRSTNAME_LASTNAME)",
-            "type": "string",
-            "required": true
-          },
-          "contact": {
-            "description": "defines whether this person is one of the project's contact persons",
-            "type": "boolean"
+    {
+      "type": "object",
+      "title": "project",
+      "description": "A project",
+      "name": "project",
+      "properties": {
+        "name": {
+          "description": "the name of the project.",
+          "required": true,
+          "type": "string"
+        },
+        //[...]
+        "people": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "person": {
+              "slug": {
+                "description": "a project member's slug (FIRSTNAME_LASTNAME)",
+                "type": "string",
+                "required": true
+              },
+              "contact": {
+                "description": "defines whether this person is one of the project's contact persons",
+                "type": "boolean"
+              }
+            }
           }
         }
       }
     }
-  }
-}
