@@ -4,6 +4,6 @@
     "headline": "Since 2007, we've been providing agile development for a whole host of clients, ranging from small startups to established businesses.",
     "content": "Along the way, we've built great web applications for clients, developed some juicy apps of our own, taught workshops, organized really cool events (Railscamps, Nodecamp, etc.), and met a bunch of great people.<br />Have a project we can help bring to life? We're ready for service: team@railslove.com.",
     "document_title": "Agency for web development",
-    "meta-description": "The Railslove agency worked on several projects for diffrent startups and developed some great applications with Ruby on Rails."
+    "meta_description": "The Railslove agency worked on several projects for diffrent startups and developed some great applications with Ruby on Rails."
   }
 }
