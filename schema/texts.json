@@ -18,6 +18,22 @@
       "description": "detailed text body",
       "required": false,
       "type": "text"
+    },
+    "meta": {
+      "description": "meta information for HTML documents",
+      "required": false,
+      "properties": {
+        "title": {
+          "description": "HTML document title",
+          "type": "text",
+          "required": false
+        },
+        "description": {
+          "description": "HTML <meta> description",
+          "type": "text",
+          "required": false
+        }
+      }
     }
   }
 }
