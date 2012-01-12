@@ -1,0 +1,36 @@
+{
+  "course": {
+    "title": "Ruby on Rails from Scratch",
+    "teaser": "",
+    "description": "",
+    "language": "German",
+    "price": "750€",
+    "start_at": "2011-01-04 10:00",
+    "end_at": "2011-01-06 16:00",
+    "location": {
+      "slug": "cowoco"
+    },
+    "people": [
+      {
+        "person": {
+          "slug": "ralph_von_der_heyden"
+        }
+      },
+      {
+        "person": {
+          "slug": "stephan_pavlovic"
+        }
+      }
+    ],
+    "places": 20,
+    "resources": {
+      "railslove_university": "http://university.railslove.com/courses/1",
+      "images": [
+        "http://flickr.com/123456789"
+      ],
+      "slides": [
+        "http://speakerdeck.com/u/stephanpavlovic/p/rubyonrails-from-scratch"
+      ]
+    }
+  }
+}
