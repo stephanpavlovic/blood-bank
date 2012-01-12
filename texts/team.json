@@ -3,9 +3,7 @@
     "permalink": "team",
     "headline": "Railslove is a passionate team of hackers and thinkers.",
     "content": "We're all about programming challenges and the beauty of good code. Our backgrounds cover a wide range of development, design and social disciplines. Feel free to drop us a line if you're interested in working with us.",
-    "meta": {
-      "title": "Web development with Ruby on Rails",
-      "description": "The Railslove team is a great group of web developers who love building web applications with Ruby on Rails. We work for awesome startups from Germany and all around the world."
-    }
+    "meta_title": "Web development with Ruby on Rails",
+    "meta_description": "The Railslove team is a great group of web developers who love building web applications with Ruby on Rails. We work for awesome startups from Germany and all around the world."
   }
 }
