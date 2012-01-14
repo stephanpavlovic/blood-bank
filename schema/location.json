@@ -1,0 +1,28 @@
+{
+  "name": "location",
+  "description": "A representation of a location.",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string",
+      "required": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string", 
+      "format": "url" 
+    },
+    "longitude": {
+      "type": "number"
+    },
+    "latitude": {
+      "type": "number"
+    }
+  }
+}

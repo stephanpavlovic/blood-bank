@@ -1,0 +1,84 @@
+{
+  "name": "course",
+  "description": "A Railslove University course",
+  "type": "object",
+  "properties": {
+    "slug": {
+      "type": "string",
+      "description": "Course's unique slug consisting of course title and start date.",
+      "required": true
+    },
+    "name": {
+      "type":"string",
+      "required": true
+    },
+    "teaser": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "language": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "number"
+    },
+    "start": {
+      "format": "date-time",
+      "type": "string",
+      "description": "Course's start date and time. Time will be used as the start time for all days of the course series.",
+      "required": true
+    },
+    "end": {
+      "format": "date-time",
+      "type": "string",
+      "description": "Course's end date and time. Time will be used as the end time for all days of the course series.",
+      "required": true
+    },
+    "location_slug": {
+      "type": "string",
+      "description": "Slug of the course's location.",
+      "required": true
+    },
+    "teachers": {
+      "type": "array",
+      "required": true,
+      "items": {
+        "type": "object",
+        "person": {
+          "slug": {
+            "description": "teacher's slug",
+            "type": "string",
+            "required": true
+          }
+        }
+      }
+    },
+    "places": {
+      "type": "number",
+      "required": true
+    },
+    "url": {
+      "type": "string", 
+      "format": "url" 
+    },
+    "images_url": {
+      "type": "string",
+      "format": "url"
+    },
+    "slides_url": {
+      "type": "string",
+      "format": "url"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

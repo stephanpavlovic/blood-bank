@@ -1,16 +1,15 @@
 {
   "course": {
-    "title": "Ruby on Rails from Scratch",
-    "teaser": "",
+    "slug": "ruby_on_rails_from_scratch_2012_01_04",
+    "name": "Ruby on Rails from Scratch",
+    "teaser": "Heard about Ruby on Rails? But never tried it out? Here is your chance! Ruby on Rails from Scratch is a 3 day workshop for beginners.",
     "description": "",
     "language": "German",
-    "price": "750€",
-    "start_at": "2011-01-04 10:00",
-    "end_at": "2011-01-06 16:00",
-    "location": {
-      "slug": "cowoco"
-    },
-    "people": [
+    "price": 750,
+    "start": "2011-01-04T10:00:00Z",
+    "end": "2011-01-06T16:00:00Z",
+    "location_slug": "coworking_cologne",
+    "teachers": [
       {
         "person": {
           "slug": "ralph_von_der_heyden"
@@ -23,14 +22,18 @@
       }
     ],
     "places": 20,
-    "resources": {
-      "railslove_university": "http://university.railslove.com/courses/1",
-      "images": [
-        "http://flickr.com/123456789"
-      ],
-      "slides": [
-        "http://speakerdeck.com/u/stephanpavlovic/p/rubyonrails-from-scratch"
-      ]
-    }
+    "url": "http://university.railslove.com/courses/1",
+    "slides_url": "http://speakerdeck.com/u/railslove/p/3dayworkshopslides",
+     "tags": [
+      "Ruby on Rails",
+      "Ruby",
+      "Introduction"
+    ],
+    "resources": [
+      {
+        "title": "Railslove Challenge",
+        "url": "http://speakerdeck.com/u/railslove/p/railslove-challenge"
+      }
+    ]
   }
 }

@@ -32,7 +32,7 @@
     "description": {
       "description": "about text for a person.",
       "required": true,
-      "type": "text"
+      "type": "string"
     },
     "twitter_name": {
       "description": "twitter account for a person.",
@@ -63,8 +63,13 @@
       "type": "string"
     },
     "url": {
-      "description": "homepage from a person",
+      "description": "a person's homepage",
       "type": "string"
+    },
+    "teacher": {
+      "description": "Is this person a teacher at Railslove University?",
+      "type": "boolean",
+      "required": false
     }
   }
 }

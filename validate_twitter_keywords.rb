@@ -2,7 +2,7 @@ require 'minitest/autorun'
 require 'json-schema'
 require 'json'
 
-schema_file = File.join(File.dirname(File.expand_path(__FILE__)) , 'schema', 'twitter_keywords.json')
+schema_file = File.join(File.dirname(File.expand_path(__FILE__)) , 'schema', 'twitter_keyword.json')
 twitterkeywords_path = File.join(File.dirname(File.expand_path(__FILE__)) , 'twitter_keywords')
 schema = File.open(schema_file) { |f| JSON.parse(f.read) }
 
