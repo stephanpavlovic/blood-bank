@@ -1,4 +1,4 @@
-{
+  {
   "person": {
     "slug": "sebastian_kippe",
     "first_name": "Sebastian",
@@ -9,6 +9,8 @@
     "twitter_name": "skddc",
     "twitter_uid": "12515352",
     "github_name": "skddc",
-    "codebase_name": "skddc"
+    "codebase_name": "skddc",
+    "meta_title": "sebastian_kippe - Ruby on Rails developer",
+    "meta_description": ""
   }
 }
