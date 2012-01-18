@@ -13,6 +13,8 @@
     "flickr_name": "rvdh",
     "facebook_name": "ralphvdh",
     "url": "http://www.rvdh.de",
-    "teacher": true
+    "teacher": true,
+    "meta_title": "ralph_von_der_heyden - Ruby on Rails developer",
+    "meta_description": ""
   }
 }
