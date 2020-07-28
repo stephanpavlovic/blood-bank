@@ -1,7 +1,7 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    json (1.6.1)
+    json (2.3.0)
     json-schema (0.9.11)
     minitest (2.7.0)
 
